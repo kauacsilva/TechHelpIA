@@ -1,4 +1,4 @@
-# TechHelpIA# 
+# TechHelpIA # 
 
 Bem-vindo à documentação do **TechHelp-AI**! Aqui você encontrará todos os diagramas UML necessários para entender a arquitetura, os fluxos e os componentes do sistema. 💡
 
@@ -16,7 +16,7 @@ A TechHelp permitirá que seus usuários (cliente e administrador) abram chamado
 
 ##  Backlog do Produto
 
-Documentação/Backlog
+
 
 ---
 
@@ -24,12 +24,10 @@ Documentação/Backlog
 
 - **UML** – Modelagem de sistema
 - **SCRUM** – Metodologia ágil utilizada no desenvolvimento
-
----
-
-##  Cronograma de Evolução
-
-
+- **C#**
+- **HTML**
+- **JAVASCRIPT**
+- **FLUTTER**
 
 ---
 
@@ -37,22 +35,36 @@ Documentação/Backlog
 
 | **Sprint** | **Previsão** | **Status** |
 |------------|--------------|------------------------|
-| **Sprint 1** |  |  |
-| **Sprint 2** |  |  |
-| **Sprint 3** |  |  |
-| **Sprint 4** |  |  |
-| **Sprint 5** |  |  |
+| **Sprint 1** | 01/09 | Em andamento |
+| **Sprint 2** | 15/09 | Pendente |
+| **Sprint 3** | 29/10 | Pendente |
+| **Sprint 4** | 13/10 | Pendente |
+| **Sprint 5** | 27/10 | Pendente |
 
 ---
 
 ## 💻 Tecnologias 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+</a>
+<img width="12" />
+<a href="https://developer.mozilla.org/pt-BR/docs/Glossary/HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+</a>
+<img width="12" />
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+</a>
+<img width="12" />
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img width="12" />
+<a href="https://www.figma.com/">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
 </div>
 
 ---
@@ -61,21 +73,33 @@ Documentação/Backlog
 
 ## 👨‍💻 Membros da Equipe
 
-O projeto **TechHelp-AI** está sendo desenvolvido por uma equipe dedicada de profissionais com habilidades diversificadas. Abaixo estão os membros da equipe, juntamente com suas funções e áreas de especialização:
-
-### 🧑‍💼 Kauã Castro da Silva
-- **Função**: Product Owner 
-
-###  🧑‍🏫  Gabriel Arantes da Silva Soares
-- **Função**: Scrum Master & full stack Developer
-
-### 🧑‍💻 Ruan Dias Nunes
-- **Função**: Frontend Developer
-
-### 🎨 Wesley Martins
-- **Função**: Designer
-
-### 🧑‍💻 Lucas
-- **Função**: Backend Developer
+<div align="center">
+  <table>
+    <tr>
+      <th>Membro</th>
+      <th>Função</th>
+    </tr>
+    <tr>
+      <td>Kauã Castro</td>
+      <td>Product Owner</td>
+    </tr>
+    <tr>
+      <td>Gabriel Arantes</td>
+      <td>Scrum Master</td>
+    </tr>
+    <tr>
+      <td>Ruan Dias</td>
+      <td>Desenvolvedor</td>
+    </tr>
+    <tr>
+      <td>Wesley Martins</td>
+      <td>Desenvolvedor</td>
+    </tr>
+    <tr>
+      <td>Lucas</td>
+      <td>Desenvolvedor</td>
+    </tr>
+  </table>
+</div>
   
 
