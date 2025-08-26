@@ -1,22 +1,41 @@
-| Rank | Prioridade | User Story                                                                                                                                                   | Sprint | Requisito do Cliente | Status |
-| :--: | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ :----: | :------------------: | :----: |
-|   1  |    Alta    | Como usuário, quero cadastrar, consultar, atualizar e encerrar chamados, para que eu possa gerenciar minhas solicitações de forma completa.                  |    1   |         RF01         |    ⏳   |
-|   2  |    Alta    | Como sistema, quero classificar automaticamente os chamados com base no histórico e complexidade, para que problemas críticos sejam priorizados.             |    1   |         RF02         |    ⏳   |
-|   3  |    Alta    | Como sistema, quero encaminhar chamados automaticamente ao técnico adequado, para que cada solicitação seja atendida pela pessoa correta.                    |    1   |         RF03         |    ⏳   |
-|   4  |    Alta    | Como usuário, quero receber sugestões de solução da IA antes da abertura do chamado, para que problemas simples sejam resolvidos rapidamente.                |    1   |         RF04         |    ⏳   |
-|   5  |    Alta    | Como administrador, quero gerar relatórios de desempenho do sistema, técnicos e IA, para que métricas importantes sejam monitoradas.                         |    2   |         RF06         |    ⏳   |
-|   6  |    Alta    | Como administrador, quero configurar níveis de acesso e permissões, para que apenas usuários autorizados realizem determinadas ações.                        |    2   |         RF08         |    ⏳   |
-|   7  |    Alta    | Como sistema, quero criptografar dados sensíveis, para garantir a segurança das informações de todos os usuários.                                            |    2   |         RNF02        |    ⏳   |
-|   8  |    Alta    | Como administrador, quero que todas as alterações em chamados fiquem registradas em logs e auditorias, para garantir rastreabilidade completa.               |    2   |         RNF03        |    ⏳   |
-|   9  |    Alta    | Como sistema, quero utilizar banco de dados SQL Server, para garantir robustez, confiabilidade e consistência no armazenamento.                              |    3   |         RNF05        |    ⏳   |
-|  10  |    Alta    | Como sistema, quero sugerir soluções de base de conhecimento sempre que possível, para reduzir a carga de chamados repetitivos.                              |    3   |         RF12         |    ⏳   |
-|  11  |    Alta    | Como técnico, quero poder gerenciar a base de conhecimento da IA, adicionando, editando ou removendo soluções, para manter a inteligência atualizada.        |    3   |         RF13         |    ⏳   |
-|  12  |    Alta    | Como administrador, quero receber alertas de falhas críticas ou erros graves, para que possa agir rapidamente em situações de risco.                         |    3   |         RNF09        |    ⏳   |
-|  13  |    Média   | Como usuário, quero acessar um manual de ajuda e tutoriais passo a passo, para que eu possa aprender a usar todas as funcionalidades do sistema.             |    4   |         RNF01        |    ⏳   |
-|  14  |    Média   | Como equipe de desenvolvimento, quero realizar testes automatizados e manuais periodicamente, para identificar erros e aumentar a confiabilidade do sistema. |    4   |         RNF04        |    ⏳   |
-|  15  |    Média   | Como usuário, quero poder pesquisar chamados por filtros como status, técnico ou data, para encontrar rapidamente informações relevantes.                    |    4   |         RF07         |    ⏳   |
-|  16  |    Média   | Como sistema, quero gerar dashboards interativos com indicadores de desempenho, para que administradores possam tomar decisões estratégicas.                 |    4   |         RF09         |    ⏳   |
-|  17  |    Média   | Como sistema, quero implementar versionamento de chamados, para que alterações importantes sejam rastreadas e revertidas se necessário.                      |    5   |         RNF06        |    ⏳   |
-|  18  |    Média   | Como sistema, quero manter alta disponibilidade e tolerância a falhas, para garantir que usuários possam acessar a plataforma continuamente.                 |    5   |         RNF08        |    ⏳   |
-|  19  |    Baixa   | Como usuário, quero receber notificações por e-mail ou aplicativo sempre que houver mudanças no status do meu chamado, para que eu acompanhe o andamento.    |    5   |         RF05         |    ⏳   |
-|  20  |    Baixa   | Como sistema, quero integrar com outros sistemas internos via API, para que dados relevantes sejam compartilhados automaticamente.                           |    5   |         RF11         |    ⏳   |
+Backlog – TechHelpIA
+
+Rank 1 – Alta: Como usuário, quero cadastrar, consultar, atualizar e encerrar chamados, para que eu possa gerenciar minhas solicitações de forma completa.
+
+Rank 2 – Alta: Como sistema, quero classificar automaticamente os chamados com base no histórico e complexidade, para que problemas críticos sejam priorizados.
+
+Rank 3 – Alta: Como sistema, quero encaminhar chamados automaticamente ao técnico adequado, para que cada solicitação seja atendida pela pessoa correta.
+
+Rank 4 – Alta: Como usuário, quero receber sugestões de solução da IA antes da abertura do chamado, para que problemas simples sejam resolvidos rapidamente.
+
+Rank 5 – Alta: Como administrador, quero gerar relatórios de desempenho do sistema, técnicos e IA, para que métricas importantes sejam monitoradas.
+
+Rank 6 – Alta: Como administrador, quero configurar níveis de acesso e permissões, para que apenas usuários autorizados realizem determinadas ações.
+
+Rank 7 – Alta: Como sistema, quero criptografar dados sensíveis, para garantir a segurança das informações de todos os usuários.
+
+Rank 8 – Alta: Como administrador, quero que todas as alterações em chamados fiquem registradas em logs e auditorias, para garantir rastreabilidade completa.
+
+Rank 9 – Alta: Como sistema, quero utilizar banco de dados SQL Server, para garantir robustez, confiabilidade e consistência no armazenamento.
+
+Rank 10 – Alta: Como sistema, quero sugerir soluções de base de conhecimento sempre que possível, para reduzir a carga de chamados repetitivos.
+
+Rank 11 – Alta: Como técnico, quero poder gerenciar a base de conhecimento da IA, adicionando, editando ou removendo soluções, para manter a inteligência atualizada.
+
+Rank 12 – Alta: Como administrador, quero receber alertas de falhas críticas ou erros graves, para que possa agir rapidamente em situações de risco.
+
+Rank 13 – Média: Como usuário, quero acessar um manual de ajuda e tutoriais passo a passo, para que eu possa aprender a usar todas as funcionalidades do sistema.
+
+Rank 14 – Média: Como equipe de desenvolvimento, quero realizar testes automatizados e manuais periodicamente, para identificar erros e aumentar a confiabilidade do sistema.
+
+Rank 15 – Média: Como usuário, quero poder pesquisar chamados por filtros como status, técnico ou data, para encontrar rapidamente informações relevantes.
+
+Rank 16 – Média: Como sistema, quero gerar dashboards interativos com indicadores de desempenho, para que administradores possam tomar decisões estratégicas.
+
+Rank 17 – Média: Como sistema, quero implementar versionamento de chamados, para que alterações importantes sejam rastreadas e revertidas se necessário.
+
+Rank 18 – Média: Como sistema, quero manter alta disponibilidade e tolerância a falhas, para garantir que usuários possam acessar a plataforma continuamente.
+
+Rank 19 – Baixa: Como usuário, quero receber notificações por e-mail ou aplicativo sempre que houver mudanças no status do meu chamado, para que eu acompanhe o andamento.
+
+Rank 20 – Baixa: Como sistema, quero integrar com outros sistemas internos via API, para que dados relevantes sejam compartilhados automaticamente.
