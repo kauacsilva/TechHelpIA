@@ -48,27 +48,15 @@ A TechHelp permitirá que seus usuários (cliente e administrador) abram chamado
 
 ## 💻 Tecnologias 
 
-<div align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-</a>
-<img width="12" />
-<a href="https://developer.mozilla.org/pt-BR/docs/Glossary/HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-</a>
-<img width="12" />
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-</a>
-<img width="12" />
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img width="12" />
-<a href="https://www.figma.com/">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</a>
-</div>
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+  ![UML / Astah](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white)  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
 
 ---
 
