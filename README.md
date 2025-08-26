@@ -5,10 +5,13 @@ Bem-vindo à documentação do **TechHelp-AI**! Aqui você encontrará todos os 
 ---
 
   ##  Desafio
+  
 O desafio consiste em desenvolver um sistema de chamados com suporte de Inteligência Artificial, que analisa os chamados para sugerir soluções imediatas ou encaminhá-los ao técnico responsável. O sistema permite o acompanhamento dos chamados, o registro das soluções aplicadas e a geração de relatórios. Onde o administrador possui mais funções como editar usuários, auditoria IA e verificar chamados solucionados por técnicos e IA.
+
 ---
 
   ##  Solução
+  
 A TechHelp permitirá que seus usuários (cliente e administrador) abram chamados possuindo respostas de maneira mais ágil com o auxilio da IA integrada ao sistema, e n caso da resposta da IA não ser satisfeita haverá um técnico no auxílio da solução, onde ele registrará a solução na base de dados da IA.
 
 ---
@@ -16,6 +19,7 @@ A TechHelp permitirá que seus usuários (cliente e administrador) abram chamado
 
 ##  Backlog do Produto
 
+[Backlog](https://github.com/kauacsilva/TechHelpIA/blob/main/Documenta%C3%A7%C3%A3o/README.md)
 
 
 ---
