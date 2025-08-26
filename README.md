@@ -25,13 +25,14 @@ A TechHelp permitirá que seus usuários (cliente e administrador) abram chamado
 
 ##  Tecnologias Utilizadas
 
-- **UML** – Modelagem de sistema
-- **SCRUM** – Metodologia ágil utilizada no desenvolvimento
 - **C#**
 - **HTML**
 - **JAVASCRIPT**
 - **FLUTTER**
-
+- **FIGMA**
+- **UML** – Modelagem de sistema
+- **SCRUM** – Metodologia ágil utilizada no desenvolvimento
+  
 ---
 
 ##  Planejamento por Sprints
