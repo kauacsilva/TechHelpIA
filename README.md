@@ -19,8 +19,7 @@ A TechHelp permitirá que seus usuários (cliente e administrador) abram chamado
 
 ##  Backlog do Produto
 
-[Backlog](https://github.com/kauacsilva/TechHelpIA/blob/main/Documenta%C3%A7%C3%A3o/README.md)
-
+👉 [Acessar Backlog](https://github.com/kauacsilva/TechHelpIA/tree/main/Documenta%C3%A7%C3%A3o/Backlog)
 
 ---
 
