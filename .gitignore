@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Cache/temp
+.cache/
+*.tmp
+
+# Node (se usar futuramente)
+node_modules/
+
+# Builds
+dist/
+build/
